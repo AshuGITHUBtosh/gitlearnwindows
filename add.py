@@ -1,1 +1,1 @@
-print("hello I am using git and github")
+print("hello I am using git and github and merging from the other branch")
