@@ -1,1 +1,1 @@
-print("hello I am using git and github and doing the 2nd merge 2nd time")
+print("hello I am using git and github and doing the 2nd merge 3rd time")
