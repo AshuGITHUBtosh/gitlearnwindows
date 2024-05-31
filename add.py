@@ -1,1 +1,1 @@
-print("hello I am using git and github")
+print("hello I am using git and github doing the 2nd commit")
